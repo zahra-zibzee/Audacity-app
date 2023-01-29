@@ -1,7 +1,7 @@
 # Audacity
 
 This is an app for recording or choosing audios and editing them based on your selected filters and while working, you can see how your audio waves have changed while listening to the output. At the end, you can also save your final edited audio.
-![audio](https://www.linkpicture.com/q/audio.png)
+![audio](https://github.com/zahra-zibzee/Audacity-app/blob/main/pics/app.png)
 
 
 
@@ -41,15 +41,15 @@ We have a ‘choose filter’ box that has 5 options:
 
 
 ## ECHO
-![echo](https://www.linkpicture.com/q/echo_1.png)
+![echo](https://github.com/zahra-zibzee/Audacity-app/blob/main/pics/echo.png)
 
 
 ## Flange
-![flange](https://www.linkpicture.com/q/flange.png)
+![flange](https://github.com/zahra-zibzee/Audacity-app/blob/main/pics/flange.png)
 
 ## Fade In & Fade Out
-![fadein](https://www.linkpicture.com/q/fadein.png)
-![fadeout](https://www.linkpicture.com/q/fade-out.png)
+![fadein](https://github.com/zahra-zibzee/Audacity-app/blob/main/pics/fade_in.png)
+![fadeout](https://github.com/zahra-zibzee/Audacity-app/blob/main/pics/fade_out.png)
 
 ## Save Audio
 
